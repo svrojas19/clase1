@@ -1,5 +1,5 @@
 html{
-    background-color:white;
+    background-color:lightslategray;
 }
 
 .container{
@@ -13,7 +13,7 @@ html{
 }
 
 .col-50{
-    width: 50%;
+    width: 90%;
 }
 
 
@@ -25,28 +25,30 @@ html{
 }
 
 .row .col-50 figure img{
-    width: 80%;
+    width: 95%;
 }
 
 .row .col-50:nth-child(1) div{
-    width: 80%;
-    margin: 120px auto;
+    width: 60%;
+    margin: 60px auto;
 }
 
 .row .col-50:nth-child(2) div{
-    width: 90%;
-    margin: 110px auto;
+    width: 60%;
+    margin: 60px auto;
 }
 
 .row .col-50 div a{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    font-size: 1.5rem;
+    color: white;
+;   font-size: 1.0rem;
 }
 
 .row .col-50 div p{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    font-size: 1.5rem;
+    font-size: 1.0rem;
+    
 }
+
