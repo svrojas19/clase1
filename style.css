@@ -16,12 +16,6 @@ html{
     width: 50%;
 }
 
-/* .row .col-50:nth-child(1){
-    background-color: chocolate;
-}
-.row .col-50:nth-child(2){
-    background-color:cornflowerblue;
-} */
 
 .row .col-50 figure{
     margin: 0px;
